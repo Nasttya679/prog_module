@@ -1,0 +1,11 @@
+name,order_number,order_date,order_price,status
+Viktor,2001,2024-10-29,3250.00,done
+Olga,2002,2024-10-30,1200.00,in process
+Sergiy,2003,2024-11-01,450.00,done
+Kateryna,2004,2024-11-02,360.00,in process
+Ivan,2005,2024-11-03,5700.00,done
+Andriy,2006,2024-11-05,2750.25,done
+Svitlana,2007,2024-11-07,189.75,in process
+Alina,2008,2024-11-08,990.00,in process
+Mykola,2009,2024-11-09,7500.00,done
+Valentyna,2010,2024-11-10,620.00,done
